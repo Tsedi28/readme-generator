@@ -1,6 +1,6 @@
 Github: https://github.com/Tsedi28/readme-generator
 
-Walkthrough video: 
+Walkthrough video: https://drive.google.com/file/d/1vR09KvfhjreCIAU31jMp7f76_RLlNAWM/view
 
 Description
 A Node.js based tool where users can use to generate read me for their repo projects.

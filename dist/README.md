@@ -1,5 +1,5 @@
 # Professional README Generator
-![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+![GitHub license](https://img.shields.io/badge/license-APACHE-yellowgreen.svg)
 ## Github URL 🌐
 [Tsedi28](https://github.com/Tsedi28/)
 ## Description 📝
@@ -18,11 +18,11 @@ To install dependencies, run these commands:
 npm i
 ```
 ## Usage 🏆
-To generate a read me 
+To generate a read me
 ## License 📛
-      Copyright © MIT. All rights reserved. 
+      Copyright © APACHE. All rights reserved. 
       
-      Licensed under the MIT license.
+      Licensed under the APACHE license.
 ## Contributors 😃
 Tsedenia Bogale
 Contact me at tsedi22@gmail.com
