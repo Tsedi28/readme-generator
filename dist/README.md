@@ -1,7 +1,7 @@
-# l
-![GitHub license](https://img.shields.io/badge/license-APACHE-yellowgreen.svg)
+# Professional README Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 ## Github URL 🌐
-[k](https://github.com/k/)
+[Tsedi28](https://github.com/Tsedi28/)
 ## Description 📝
 undefined
 ## Table of Contents 🗒
@@ -18,14 +18,14 @@ To install dependencies, run these commands:
 npm i
 ```
 ## Usage 🏆
-oo
+To generate a read me 
 ## License 📛
-      Copyright © APACHE. All rights reserved. 
+      Copyright © MIT. All rights reserved. 
       
-      Licensed under the APACHE license.
+      Licensed under the MIT license.
 ## Contributors 😃
 Tsedenia Bogale
-Contact me at k
+Contact me at tsedi22@gmail.com
 ## Tests 🧪
 To run tests, run these commands:
 ```

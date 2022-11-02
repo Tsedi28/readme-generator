@@ -23,6 +23,11 @@ Users need to provide the usage of the project
 Last but not least, list the contributors
 
 Screenshots:
+![app screenshot](./assets/img/.png)
+
+![app screenshot](./assets/images/06-server-side-apis-homework-demo.png)
+
+![app screenshot](./assets/images/06-server-side-apis-homework-demo.png)
 
 Technologies Use
 Node.js
