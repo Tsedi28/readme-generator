@@ -6,7 +6,7 @@ ${renderBadge(data.license)}
 [${data.github}](https://github.com/${data.github}/)
 ## Description 📝
 ${data.description}
-## Table of Contents 🗒
+## Table of Contents 📑
 * [Installations](#dependencies)
 * [Usage](#usage)
 ${renderLink(data.license)}
@@ -17,10 +17,10 @@ To install dependencies, run these commands:
 \`\`\`
 ${data.dependencies}
 \`\`\`
-## Usage 🏆
+## Usage
 ${data.usage}
 ${renderSection(data.license)}
-## Contributors 😃
+## Contributors  😊 
 ${data.contributors}
 Contact me at ${data.email}
 ## Tests 🧪
@@ -34,7 +34,7 @@ ${data.test}
 // Function to render badge
 function renderBadge(license) {
   if (license !== "None") {
-    return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`
+    return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
   }
   return ''
 }
