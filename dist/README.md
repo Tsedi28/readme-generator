@@ -1,10 +1,10 @@
-# Professional README Generator
-![GitHub license](https://img.shields.io/badge/license-APACHE-yellowgreen.svg)
+# Readme md
+![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)
 ## Github URL 🌐
 [Tsedi28](https://github.com/Tsedi28/)
 ## Description 📝
 undefined
-## Table of Contents 🗒
+## Table of Contents 📑
 * [Installations](#dependencies)
 * [Usage](#usage)
 
@@ -17,13 +17,13 @@ To install dependencies, run these commands:
 ```
 npm i
 ```
-## Usage 🏆
-To generate a read me
+## Usage
+TEST
 ## License 📛
       Copyright © APACHE. All rights reserved. 
       
       Licensed under the APACHE license.
-## Contributors 😃
+## Contributors  😊 
 Tsedenia Bogale
 Contact me at tsedi22@gmail.com
 ## Tests 🧪
